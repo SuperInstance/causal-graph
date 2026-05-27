@@ -1,1 +1,4 @@
 node_modules/
+__pycache__/
+*.pyc
+causal_graph.egg-info/
